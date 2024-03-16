@@ -43,7 +43,7 @@ Several SQL queries are provided to perform common library operations such as:
 - Tracking book lending and reservations
 - Updating lending records after book return
 
-For detailed information on how to use these queries, refer to the [Approach Document](approach.docx).
+For detailed information on how to use these queries, refer to the [Approach Document](approach.docx) and click on view raw to get the exact document file in proper format.
 
 ## Usage
 
